@@ -1,10 +1,10 @@
-# 🎨 CS213 Assignment – Console Image Editor
+# 🎨 Console Image Editor
 
 ![C++](https://img.shields.io/badge/Language-C++17-blue)
 ![Platform](https://img.shields.io/badge/Platform-Console-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-A simple **console-based image editor** built in C++ for a CS213 assignment.
+A simple **console-based image editor** built in C++.
 The program allows users to load images, apply filters interactively, and save the final result.
 
 ---
